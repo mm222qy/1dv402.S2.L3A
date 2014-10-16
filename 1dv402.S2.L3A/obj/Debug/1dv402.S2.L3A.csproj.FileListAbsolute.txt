@@ -1,0 +1,6 @@
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\bin\Debug\1dv402.S2.L3A.exe.config
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\obj\Debug\1dv402.S2.L3A.csprojResolveAssemblyReference.cache
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\bin\Debug\1dv402.S2.L3A.exe
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\bin\Debug\1dv402.S2.L3A.pdb
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\obj\Debug\1dv402.S2.L3A.exe
+c:\users\reiyo_000\documents\visual studio 2013\Projects\1dv402.S2.L3A\1dv402.S2.L3A\obj\Debug\1dv402.S2.L3A.pdb
